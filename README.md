@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Francesco Ciociola, I was born in 2001 and I am a great lover of IT and Technology in general. 👨‍💻
+My name is **Francesco Ciociola**, I was born in *2001* and I am a **great lover of IT and Technology in general**. 👨‍💻
 
 This passion of mine was born as a child 👦 but I started developing it at the "*ITE TONIOLO*" school 🏫 in **Manfredonia**. I currently study at the *University of Parma* in **Computer, Electronics and Telecommunications Engineering** (**Bachelor's Degree in Information Engineering**) 👨‍🎓. I have been attending **Scout** for *many years*, which has grown me a lot from the point of view of **responsibility** and **teamwork**.
 
