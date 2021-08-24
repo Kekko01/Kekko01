@@ -1,4 +1,5 @@
 ### Hi there 👋
+**How many visits has my profile had?** ![visitators](https://visitor-badge.glitch.me/badge?page_id=Kekko01.Kekko01)
 
 <!--
 **Kekko01/Kekko01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,10 +42,19 @@ Some projects I am proud of are:
 - [Numeri Primi in TXT 🔢](https://github.com/Kekko01/Numeri-Primi-su-TXT "Numeri Primi in TXT")
 - [My Hitori 🎲](https://github.com/Kekko01/My-Hitori "My Hitori")
 
-As an OS I have dual boot with **Windows 10** and **Ubuntu**, but I am looking for other Linux OS. 
+As an OS I have dual boot with **Windows 11 Beta** and **[Elementary OS](https://github.com/elementary/os "Elementary OS")**, but I am looking for other Linux OS. 
 
 I also have **my blog**, which can be visited at the site: [https://kekko01.altervista.org/](https://kekko01.altervista.org/ "https://kekko01.altervista.org/")
 
 I am a native speaker of **Italian**, but I also know **English (B1-B2)**
 
 > *"Stay Hungry, Stay Foolish"* - Steave Jobs
+
+#### Some statistics:
+ 
+![Kekko01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kekko01&count_private=true&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kekko01&layout=compact&count_private=true&show_icons=true&theme=dark)
+
+![Kekko01's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kekko01&layout=compact&theme=dark)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
