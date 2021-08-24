@@ -21,6 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Come avere Adobe CC Gratis per 2 anni (Legalmente – No Crack)](https://kekko01.altervista.org/blog/2020/10/25/come-avere-adobe-cc-gratis-per-2-anni-legalmente-no-crack/)
+- [Vi regalo tre mesi di musica con TIDAL | GRATIS | GIVEAWAY (CHIUSO)](https://kekko01.altervista.org/blog/2020/10/01/vi-regalo-tre-mesi-di-musica-con-tidal-gratis-giveaway/)
+- [Tips per vendere su Subito.it](https://kekko01.altervista.org/blog/2020/09/05/consigli-subitoit/)
+- [Xiaomi MI 9 SE: un ottimo telefono con un ma](https://kekko01.altervista.org/blog/2020/07/30/xiaomi-mi-9-se/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
