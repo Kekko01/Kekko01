@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **francesco.ciociola01@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/francesco-ciociola/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgerSUHLoS86PrNUoFLCjHw%3D%3D](https://www.linkedin.com/in/francesco-ciociola/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgerSUHLoS86PrNUoFLCjHw%3D%3D)
+- 📄 Know about my experiences [https://www.linkedin.com/in/francesco-ciociola/](https://www.linkedin.com/in/francesco-ciociola/)
 
 - ⚡ Fun fact **I have been attending Scout for many years, which has grown me a lot from the point of view of responsibility and teamwork.**
 
