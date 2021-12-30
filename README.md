@@ -47,9 +47,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 December, 2021 - 28 December, 2021
+Week: 23 December, 2021 - 29 December, 2021
 
-Other         9 hrs 54 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Other         3 hrs 30 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀   65.50 % 
+Java          1 hr 50 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.50 % 
 ```
 <!--END_SECTION:waka-->	
 
