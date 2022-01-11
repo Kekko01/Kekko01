@@ -47,7 +47,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 January, 2022 - 09 January, 2022
+Week: 04 January, 2022 - 10 January, 2022
 
 Java    7 hrs 45 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀   89.03 % 
 Other   45 mins         ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.60 % 
