@@ -43,6 +43,11 @@
 <h3 align="left">Time spent developing in the last week:</h3>
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->	
 
 <h3 align="left">Support:</h3>
