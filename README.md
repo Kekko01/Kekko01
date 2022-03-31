@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kekko01&label=Profile%20views&color=0e75b6&style=flat" alt="kekko01" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/ab062a0e-8d31-4a6a-8387-b9b0ede48a4a.svg)](https://wakatime.com/@ab062a0e-8d31-4a6a-8387-b9b0ede48a4a)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kekko01" alt="kekko01" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/francescocio01" target="blank"><img src="https://img.shields.io/twitter/follow/francescocio01?logo=twitter&style=for-the-badge" alt="francescocio01" /></a> </p>
