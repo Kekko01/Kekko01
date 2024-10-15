@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kekko01?tab=repositories](https://github.com/Kekko01?tab=repositories)
 
-- 📝 I regularly write articles on [https://kekko01.altervista.org/blog/](https://kekko01.altervista.org/blog/)
+- 📝 I write articles on [https://kekko01.altervista.org/blog/](https://kekko01.altervista.org/blog/)
 
 - 💬 Ask me about **Python, Linux, Windows... or other!**
 
@@ -19,14 +19,10 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/francesco-ciociola/](https://www.linkedin.com/in/francesco-ciociola/)
 
-- ⚡ Fun fact **I have been attending Scout for many years, which has grown me a lot from the point of view of responsibility and teamwork.**
+- ⚡ Strength **I have been attending Scout for many years, which has grown me a lot from the point of view of responsibility and teamwork.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [OCR per rinominare file PDF in base al contenuto [DOWNLOAD]](https://kekko01.altervista.org/blog/2023/09/13/ocr-per-rinominare-file-pdf-in-base-al-contenuto-download/)
-- [Come avere Adobe CC Gratis per 2 anni &lpar;Legalmente – No Crack&rpar;](https://kekko01.altervista.org/blog/2020/10/25/come-avere-adobe-cc-gratis-per-2-anni-legalmente-no-crack/)
-- [Vi regalo tre mesi di musica con TIDAL | GRATIS | GIVEAWAY &lpar;CHIUSO&rpar;](https://kekko01.altervista.org/blog/2020/10/01/vi-regalo-tre-mesi-di-musica-con-tidal-gratis-giveaway/)
-- [Tips per vendere su Subito.it](https://kekko01.altervista.org/blog/2020/09/05/consigli-subitoit/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -46,27 +42,25 @@
 
 <h3 align="left">Time spent developing in the last week:</h3>
 
+
+
 <!--START_SECTION:waka-->
-
-```txt
-From: 07 October 2024 - To: 14 October 2024
-
-No activity tracked
-```
 
 <!--END_SECTION:waka-->	
 
+
+
 <h3 align="left">Time spent developing in all time (tracked by Wakatime):</h3>
+
+
 
 [![wakatime](https://wakatime.com/badge/user/ab062a0e-8d31-4a6a-8387-b9b0ede48a4a.svg)](https://wakatime.com/@ab062a0e-8d31-4a6a-8387-b9b0ede48a4a)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kekko01"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kekko01" /></a></p><br><br>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kekko01&show_icons=true&theme=dark&locale=en&layout=compact" alt="kekko01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kekko01&show_icons=true&theme=dark&locale=en" alt="kekko01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kekko01&theme=dark" alt="kekko01" /></p>
-
