@@ -46,6 +46,13 @@
 <h3 align="left">Time spent developing in the last week:</h3>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 07 March 2026 - To: 14 March 2026
+
+TeX   0 secs                ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+```
+
 <!--END_SECTION:waka-->	
 
 <h3 align="left">Time spent developing in all time (tracked by Wakatime):</h3>
